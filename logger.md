@@ -12,6 +12,14 @@
   Here is the link for the Jupyter Notebook we used for this session.
   https://github.com/iitmcvg/Content/blob/master/Sessions/Summer_School_2018/Session_4/Session%204.ipynb
   
+11th July 2018:
+  Working on CNN SLAM 
+ 
+12th July 2018:
+  Solving Tensorflow.ipynb from CS231n course on Deep Learning in assignment number 2.
+  
+
+  
 
   
 
