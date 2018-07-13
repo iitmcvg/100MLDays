@@ -13,10 +13,16 @@
   https://github.com/iitmcvg/Content/blob/master/Sessions/Summer_School_2018/Session_4/Session%204.ipynb
   
 11th July 2018:
-  Working on CNN SLAM.
+  Working on CNN SLAM. http://iitmcvg.github.io/ongoing-projects/CNN-SLAM/
  
 12th July 2018:
-  Performing Text Classification on the IMDB dataset.
+  Performing Text Classification on the IMDB dataset. (Performing Binary Classification on movie reviews to be positive or negative)
+  
+13th July 2018:
+   Using NVIDIA tensorrt to optimise atrous object detectors on small scale imaging.
+   
+
+  
  
 
   
